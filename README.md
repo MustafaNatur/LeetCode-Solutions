@@ -5,8 +5,8 @@ C/C++/Swift solutions of Leetcode problems
 ## Algorithms
 
 * [Bit Manipulation]
-* [Array](
-* [String](
+* [Array]
+* [String]
 * [Linked List]
 * [Stack]
 * [Queue]
@@ -15,7 +15,7 @@ C/C++/Swift solutions of Leetcode problems
 * [Hash Table]
 * [Math]
 * [Sort]
-* [Two Pointers])
+* [Two Pointers]
 * [Recursion]
 * [Binary Search]
 * [Binary Search Tree]
