@@ -2,30 +2,13 @@
 C/C++/Swift solutions of Leetcode problems
 # [LeetCode](https://leetcode.com/problemset/all/)
 
-## Algorithms
+## Algorithms 1
 
-* [Bit Manipulation]
-* [Array]
-* [String]
-* [Linked List]
-* [Stack]
-* [Queue]
-* [Binary Heap]
-* [Tree]
-* [Hash Table]
-* [Math]
-* [Sort]
-* [Two Pointers]
-* [Recursion]
 * [Binary Search]
-* [Binary Search Tree]
-* [Breadth-First Search]
-* [Depth-First Search]
-* [Backtracking]
+* [Two Pointers]
+* [Bit Manipulation]
+* [Sliding Window]
+* [Breadth-First Search / Depth-First Search]
+* [Recursion / Backtracking]
 * [Dynamic Programming]
-* [Greedy]
-* [Graph]
-* [Geometry]
-* [Simulation]
-* [Design]
-* [Concurrency]
+
