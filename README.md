@@ -1,6 +1,5 @@
-# LeetCode-Solutions
-C/C++/Swift solutions of Leetcode problems
 # [LeetCode](https://leetcode.com/problemset/all/)
+C/C++/Swift solutions of Leetcode problems
 
 ## Algorithms 1
 
