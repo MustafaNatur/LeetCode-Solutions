@@ -15,4 +15,4 @@ C/C++/Swift solutions of Leetcode problems
 ## Algorithms 1
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-704 | [Binary Search](https://leetcode.com/problems/binary-search/?envType=study-plan&id=algorithm-i) | [C](./C++/xor-queries-of-a-subarray.cpp) [C++](./C++/Binary Search.cpp) [Swift](./Swift)| _O(n)_ | _O(1)_ | Easy ||
+704 | [Binary Search](https://leetcode.com/problems/binary-search/?envType=study-plan&id=algorithm-i) | [C](./C++/xor-queries-of-a-subarray.cpp) [C++](./C++/Binary/ Search.cpp) [Swift](./Swift)| _O(n)_ | _O(1)_ | Easy ||
