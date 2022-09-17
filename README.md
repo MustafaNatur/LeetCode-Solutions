@@ -3,7 +3,7 @@ C/C++/Swift solutions of Leetcode problems
 
 ## Algorithms 1
 
-* [Binary Search]
+* [Binary Search](https://github.com/kamyu104/LeetCode-Solutions#binary-search)
 * [Two Pointers]
 * [Bit Manipulation]
 * [Sliding Window]
