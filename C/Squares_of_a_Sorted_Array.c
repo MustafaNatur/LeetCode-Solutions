@@ -1,8 +1,6 @@
 /* Given an integer array nums sorted in non-decreasing order, return an array of the squares
 of each number sorted in non-decreasing order.*/
-/**
- * Note: The returned array must be malloced, assume caller calls free().
- */
+
 int* sortedSquares(int* nums, int numsSize, int* returnSize){
     *returnSize = numsSize;
     int *mass = malloc(sizeof(int) * numsSize);
