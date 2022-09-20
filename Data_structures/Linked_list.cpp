@@ -3,9 +3,9 @@ using namespace std;
 
 struct Node {
     string inf;
-    Node* next = nullptr;
+    Node* next;
 
-    Node(string _inf) : inf(_inf) {};
+    Node(string _inf) : inf(_inf), next(nullptr) {};
 };
 
 struct List {
@@ -18,7 +18,7 @@ struct List {
         return first == nullptr;
     }
 
-    void pushBack(string info) {
+    void pushBack(string info) { // check this function tommorow
 
         Node* p = new Node(info);
 
@@ -29,6 +29,7 @@ struct List {
         else {
             last->next = p;
             last = p;
+            last -> next = nullptr;
         }
     }
 
@@ -45,19 +46,28 @@ struct List {
         }
     }
 
-    string at(int i) {
+    Node *find(int index) {
         Node* p = first;
         int counter = 0;
         while (p != nullptr) {
-            if (counter == i) {
-                return p->inf;
+            if (counter == index) {
+                return p;
             }
             p = p->next;
             counter++;
         }
-        return "Out of range";
+        return nullptr;
     }
 
+
+    string at(int index) {
+        return find(index) == nullptr ? "Out of the range" : find(index) -> inf;
+    }
+
+    void deleteAt(int index) {
+        delete find(index);
+        find(index - 1)->next = find(index + 1);
+    }
 
 
 };
@@ -67,10 +77,13 @@ int main()
 
     List l;
     l.pushBack("123");
-    l.pushBack("3455");
-    l.pushBack("235");
-    l.pushBack("3465");
-
-    cout << '\n' << l.at(2);
+    //l.pushBack("3455");
+    // l.pushBack("235");
+    // l.pushBack("3465");
+    l.print();
+    // cout << '\n';
+    // l.deleteAt(2);
+    // l.print();
+    // cout << '\n';
     return 0;
 }
