@@ -29,7 +29,6 @@ struct List {
         else {
             last->next = p;
             last = p;
-            last -> next = nullptr;
         }
     }
 
@@ -69,7 +68,16 @@ struct List {
         find(index - 1)->next = find(index + 1);
     }
 
-
+    void deleteList() {
+        Node *p = first;
+            if (!this->isEmpty()) {
+                while (p != nullptr) {
+                p = p -> next;
+                delete p;
+            }
+        }
+        delete first;
+    }
 };
 
 int main()
@@ -77,10 +85,11 @@ int main()
 
     List l;
     l.pushBack("123");
-    //l.pushBack("3455");
-    // l.pushBack("235");
-    // l.pushBack("3465");
+    l.pushBack("3455");
+    l.pushBack("235");
+    l.pushBack("3465");
     l.print();
+    l.deleteList();
     // cout << '\n';
     // l.deleteAt(2);
     // l.print();
