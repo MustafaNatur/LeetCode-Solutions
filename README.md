@@ -4,7 +4,7 @@ C/C++/Swift solutions of Leetcode problems
 ## Algorithms 1
 
 * [Binary Search](https://github.com/MustafaNatur/LeetCode-Solutions#binary-search)
-* [Two Pointers]
+* [Two Pointers](https://github.com/MustafaNatur/LeetCode-Solutions#two-pointers)
 * [Bit Manipulation]
 * [Sliding Window]
 * [Breadth-First Search / Depth-First Search]
