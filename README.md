@@ -1,5 +1,5 @@
 # [LeetCode](https://leetcode.com/problemset/all/)
-C/C++/Swift solutions of Leetcode problems
+C++/Swift solutions of Leetcode problems
 
 ## Algorithms 1
 
@@ -26,4 +26,4 @@ C/C++/Swift solutions of Leetcode problems
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
 977 | [Search Insert Position](https://leetcode.com/problems/squares-of-a-sorted-array/?envType=study-plan&id=algorithm-i) | [C++](./C++/Squares_of_a_Sorted_Array.cpp) [Swift](./Swift/Squares_of_a_Sorted_Array.swift)| _O(log n)_ | _O(1)_ | Easy ||
 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/?envType=study-plan&id=algorithm-i) | [C++](./C++/Rotate_Array.cpp) [Swift](./Swift/Rotate_Array.swift)| _O(log n)_ | _O(1)_ | Easy ||
-283 | [Move_Zeroes](https://leetcode.com/problems/move-zeroes/?envType=study-plan&id=algorithm-i) | [C++](./C++/Move_Zeroes.cpp) [Swift](./Swift/Move_Zeroes.swift)| _O(log n)_ | _O(1)_ | Easy ||
+283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/?envType=study-plan&id=algorithm-i) | [C++](./C++/Move_Zeroes.cpp) [Swift](./Swift/Move_Zeroes.swift)| _O(log n)_ | _O(1)_ | Easy ||
