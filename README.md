@@ -28,7 +28,3 @@ C++/Swift solutions of Leetcode problems
 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/?envType=study-plan&id=algorithm-i) | [C++](./C++/Rotate_Array.cpp) [Swift](./Swift/Rotate_Array.swift)| _O(log n)_ | _O(1)_ | Easy ||
 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/?envType=study-plan&id=algorithm-i) | [C++](./C++/Move_Zeroes.cpp) [Swift](./Swift/Move_Zeroes.swift)| _O(log n)_ | _O(1)_ | Easy ||
 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/move-zeroes/?envType=study-plan&id=algorithm-i) | [C++](./C++/Two_Sum_II_-_Input_Array_Is_Sorted.cpp) [Swift](./Swift/Two_Sum_II_-_Input_Array_Is_Sorted.swift)| _O(log n)_ | _O(1)_ | Easy ||
-
-
-
-167. Two Sum II - Input Array Is Sorted
