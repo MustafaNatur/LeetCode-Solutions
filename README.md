@@ -25,7 +25,8 @@ C++/Swift solutions of Leetcode problems
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    |
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
 977 | [Search Insert Position](https://leetcode.com/problems/squares-of-a-sorted-array/?envType=study-plan&id=algorithm-i) | [C++](./C++/Squares_of_a_Sorted_Array.cpp) [Swift](./Swift/Squares_of_a_Sorted_Array.swift)| _O(log n)_ | _O(1)_ | Easy ||
-189 | [Rotate Array](https://leetcode.com/problems/rotate-array/?envType=study-plan&id=algorithm-i) | [C++](./C++/Rotate_Array.cpp) [Swift](./Swift/Rotate_Array.swift)| _O(log n)_ | _O(1)_ | Easy ||
+189 | [Rotate Array](https://leetcode.com/problems/rotate-array/?envType=study-plan&id=algorithm-i) | [C++](./C++/Rotate_Array.cpp) [Swift](./Swift/Rotate_Array.swift)| _O(log n)_ | _O(1)_ | Medium ||
 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/?envType=study-plan&id=algorithm-i) | [C++](./C++/Move_Zeroes.cpp) [Swift](./Swift/Move_Zeroes.swift)| _O(log n)_ | _O(1)_ | Easy ||
-167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/move-zeroes/?envType=study-plan&id=algorithm-i) | [C++](./C++/Two_Sum_II_-_Input_Array_Is_Sorted.cpp) [Swift](./Swift/Two_Sum_II_-_Input_Array_Is_Sorted.swift)| _O(log n)_ | _O(1)_ | Easy ||
+167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/move-zeroes/?envType=study-plan&id=algorithm-i) | [C++](./C++/Two_Sum_II_-_Input_Array_Is_Sorted.cpp) [Swift](./Swift/Two_Sum_II_-_Input_Array_Is_Sorted.swift)| _O(log n)_ | _O(1)_ | Medium ||
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./C++/Reverse_String.cpp) [Swift](./Swift/Reverse_String.swift)| _O(log n)_ | _O(1)_ | Easy ||
+557 | [Revesre Worlds in a String](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [C++](./C++/Reverse_Words_in_a_String.cpp) [Swift](./Swift/Reverse_Words_in_a_String.swift)| _O(log n)_ | _O(1)_ | Easy ||
