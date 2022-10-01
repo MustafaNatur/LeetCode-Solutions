@@ -5,8 +5,8 @@ C++/Swift solutions of Leetcode problems
 
 * [Binary Search](https://github.com/MustafaNatur/LeetCode-Solutions#binary-search)
 * [Two Pointers](https://github.com/MustafaNatur/LeetCode-Solutions#two-pointers)
-* [Bit Manipulation]
 * [Sliding Window]
+* [Bit Manipulation]
 * [Breadth-First Search / Depth-First Search]
 * [Recursion / Backtracking]
 * [Dynamic Programming]
