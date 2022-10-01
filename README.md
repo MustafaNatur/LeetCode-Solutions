@@ -5,7 +5,7 @@ C++/Swift solutions of Leetcode problems
 
 * [Binary Search](https://github.com/MustafaNatur/LeetCode-Solutions#binary-search)
 * [Two Pointers](https://github.com/MustafaNatur/LeetCode-Solutions#two-pointers)
-* [Sliding Window]
+* [Sliding Window](https://github.com/MustafaNatur/LeetCode-Solutions#sliding-window)
 * [Bit Manipulation]
 * [Breadth-First Search / Depth-First Search]
 * [Recursion / Backtracking]
@@ -17,7 +17,7 @@ C++/Swift solutions of Leetcode problems
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
 704 | [Binary Search](https://leetcode.com/problems/binary-search/?envType=study-plan&id=algorithm-i) | [C++](./C++/Binary_Search.cpp)[Swift](./Swift/Binary_Search.swift)| _O(log n)_ | _O(1)_ | Easy ||
 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/?envType=study-plan&id=algorithm-i) | [C++](./C++/Binary_Search.cpp) [Swift](./Swift/First_Bad_Version.swift)| _O(log n)_ | _O(1)_ | Easy ||
-35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](./C++/Search_Insert_Position.cpp)[Swift](./Swift/Search_Insert_Position.swift)| _O(log n)_ | _O(1)_ | Easy ||
+035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](./C++/Search_Insert_Position.cpp)[Swift](./Swift/Search_Insert_Position.swift)| _O(log n)_ | _O(1)_ | Easy ||
 
 
 
@@ -30,3 +30,10 @@ C++/Swift solutions of Leetcode problems
 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/move-zeroes/?envType=study-plan&id=algorithm-i) | [C++](./C++/Two_Sum_II_-_Input_Array_Is_Sorted.cpp) [Swift](./Swift/Two_Sum_II_-_Input_Array_Is_Sorted.swift)| _O(n)_ | _O(1)_ | Medium ||
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./C++/Reverse_String.cpp) [Swift](./Swift/Reverse_String.swift)| _O(n)_ | _O(1)_ | Easy ||
 557 | [Revesre Worlds in a String](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [C++](./C++/Reverse_Words_in_a_String.cpp) [Swift](./Swift/Reverse_Words_in_a_String.swift)| _O(n)_ | _O(n)_ | Easy ||
+
+
+
+## Sliding Window
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    |
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |
+003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/?envType=study-plan&id=algorithm-i) | [C++](./C++/Longest_Substring_Without_Repeating_Characters.cpp) [Swift](./Swift/Longest_Substring_Without_Repeating_Characters.swift)| _O(n)_ | _O(n)_ | Medium ||
