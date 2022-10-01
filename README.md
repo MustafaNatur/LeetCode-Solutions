@@ -37,3 +37,4 @@ C++/Swift solutions of Leetcode problems
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    |
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/?envType=study-plan&id=algorithm-i) | [C++](./C++/Longest_Substring_Without_Repeating_Characters.cpp) [Swift](./Swift/Longest_Substring_Without_Repeating_Characters.swift)| _O(n)_ | _O(n)_ | Medium ||
+567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/?envType=study-plan&id=algorithm-i) | [C++](./C++/Permutation_in_String.cpp) [Swift](./Swift/Permutation_in_String.swift)| _O(n)_ | _O(n)_ | Medium ||
